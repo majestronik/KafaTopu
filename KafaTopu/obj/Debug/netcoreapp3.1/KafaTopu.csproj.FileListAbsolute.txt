@@ -1,0 +1,14 @@
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.csproj.AssemblyReference.cache
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.AssemblyInfoInputs.cache
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.AssemblyInfo.cs
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.exe
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.deps.json
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.runtimeconfig.json
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.runtimeconfig.dev.json
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.dll
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\bin\Debug\netcoreapp3.1\KafaTopu.pdb
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.dll
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.pdb
+C:\Users\MONSTER-PC\source\repos\KafaTopu\KafaTopu\obj\Debug\netcoreapp3.1\KafaTopu.genruntimeconfig.cache
